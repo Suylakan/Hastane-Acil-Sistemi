@@ -5,7 +5,7 @@ Bu Proje, C dilinde Yazılmış basit bir hastane acil polikliniği sistemidir. 
 ## Özellikler
 
 - Yönetici ve doktor girişi
-- Doktor kaydetme (yalnızca yönetici
+- Doktor kaydetme (yalnızca yönetici)
 - Hasta kaydetme
 - Teşhis ve şikayet kaydetme
 - İlaç ekleme ( yalnızca yönetici)
